@@ -25,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/d5930516-dd26-41b6-be8d-f17e64bc3e7a)
 ![image](https://github.com/user-attachments/assets/7aae1795-b1f4-4d55-bd05-68f83cecc299)
 
-การแสดงผล เมื่อเอานิ้วมือปิดกล้อง Relays จะสับไฟให้จ่ายเข้าสู่กลอนไฟฟ้า ทำให้ตัวล็อคเด้งออกมา
+การแสดงผล เมื่อเอานิ้วมือปิดกล้อง Relays จะสับตัวจ่ายไฟ ไม่ให้จ่ายเข้าสู่กลอนไฟฟ้า ทำให้ตัวล็อคเด้งออกมา หากเอานิ้วมือออก Relays จะสับกลับมาจ่ายไฟให้กลอนไฟฟ้า ทำให้ตัวล็อคหุบกลับไป
 
 ![image](https://github.com/user-attachments/assets/c6181789-cca7-4fa9-96b6-4e0eb1976d08)
 

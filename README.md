@@ -19,3 +19,9 @@
 
 
 ![image](https://github.com/user-attachments/assets/4eee0350-6fef-45fa-ad5a-824a3865531b)
+
+การแสดงผล เมื่อตรวจสอบเจอใบหน้า สีฟ้าจะดับ สีแดงจะติด หากเซ็นเซอร์มีการตรวจจับใบหน้าได้ ระบบจะทำการปลดล็อคกลอน
+
+![image](https://github.com/user-attachments/assets/d5930516-dd26-41b6-be8d-f17e64bc3e7a)
+![image](https://github.com/user-attachments/assets/7aae1795-b1f4-4d55-bd05-68f83cecc299)
+

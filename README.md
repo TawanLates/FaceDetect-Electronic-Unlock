@@ -1,4 +1,4 @@
-โปรเจคนี้ทำเพื่อพัฒนานวัตกรรมแห่งอนาคต (technological innovation) โดย Duangtawan Chuangchot
+โปรเจคนี้ทำเพื่อพัฒนานวัตกรรมแห่งอนาคต (technological innovation) ของ มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์ โดย Duangtawan Chuangchot
 
 ชิ้นงาน : FaceDetect Unlock Electronic-Lock
 
